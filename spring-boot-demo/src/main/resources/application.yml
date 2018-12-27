@@ -1,0 +1,45 @@
+#portserver:
+#  port: 8081
+#  server:
+#    context-path: /demo
+#spring:
+#  profiles:
+#    active: dev
+#
+#---
+#
+#server:
+#  port: 8082
+#spring:
+#  profiles: dev
+#
+#---
+#
+#server:
+#  port: 8083
+#spring:
+#  profiles: prod
+
+
+
+
+#friends: {lastName: zhangsan,age: 12}
+
+#pets:
+#  - cat
+#  - dog
+#  - pig
+#pets: [cat,dog,pig]
+
+#person:
+#  last-name: zhangsan
+#  age: 16
+#  boss: false
+#  birth: 2018/02/23
+#  maps: {k1: v1,k2: v2}
+#  lists:
+#    - lisi
+#    - zhaoliu
+#  dog:
+#    name: 小韩
+#    age: 23
